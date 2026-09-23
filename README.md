@@ -17,7 +17,7 @@ Dev Stack allows users to explore frontend, backend, database, DevOps, and other
 > Add your project screenshot here.
 
 ```md
-![Dev Stack Preview](./src/assets/preview.png)
+![Dev Stack Preview](https://raw.githubusercontent.com/rohanul-haque/Dev-Stack/refs/heads/main/src/assets/Screenshot%202026-09-23%20131425.png)
 ```
 
 ---
@@ -70,22 +70,41 @@ The application provides toast notifications for user actions:
 ## 📂 Project Structure
 
 ```text
-src/
-├── assets/
-│   └── ...
-│
-├── components/
-│   ├── Navbar.tsx
-│   ├── Hero.tsx
-│   ├── Technologies.tsx
-│   └── Footer.tsx
-│
-├── data/
-│   └── technologies.ts
-│
-├── App.tsx
-├── main.tsx
-└── index.css
+├── 📁 public
+│   ├── 🖼️ favicon.svg
+│   └── 🖼️ icons.svg
+├── 📁 src
+│   ├── 📁 assets
+│   │   ├── 🖼️ Screenshot 2026-09-23 131425.png
+│   │   ├── 🖼️ banner-stack.png
+│   │   ├── 🖼️ hamburger.png
+│   │   ├── 🖼️ hero.png
+│   │   ├── 🖼️ logo-text.png
+│   │   ├── 🖼️ react.svg
+│   │   └── 🖼️ vite.svg
+│   ├── 📁 components
+│   │   ├── 📄 Footer.tsx
+│   │   ├── 📄 Hero.tsx
+│   │   ├── 📄 Navbar.tsx
+│   │   ├── 📄 TechnologCard.tsx
+│   │   └── 📄 Technologies.tsx
+│   ├── 📁 data
+│   │   └── 📄 technologies.ts
+│   ├── 📄 App.tsx
+│   ├── 🎨 index.css
+│   └── 📄 main.tsx
+├── ⚙️ .gitignore
+├── ⚙️ .prettierrc
+├── 📄 LICENSE
+├── 📝 README.md
+├── 📄 eslint.config.js
+├── 🌐 index.html
+├── ⚙️ package-lock.json
+├── ⚙️ package.json
+├── ⚙️ tsconfig.app.json
+├── ⚙️ tsconfig.json
+├── ⚙️ tsconfig.node.json
+└── 📄 vite.config.ts
 ```
 
 ---
@@ -95,7 +114,7 @@ src/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/dev-stack.git
+git clone https://github.com/rohanul-haque/Dev-Stack.git
 ```
 
 ### 2. Navigate to the Project
