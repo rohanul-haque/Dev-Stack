@@ -8,7 +8,7 @@ Dev Stack allows users to explore frontend, backend, database, DevOps, and other
 
 ## 🌐 Live Demo
 
-🔗 **Live Website:** Coming Soon
+🔗 **Live Website:** [Dev Stack Live](https://dev-stack-gilt.vercel.app/)
 
 ---
 
