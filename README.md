@@ -16,9 +16,7 @@ Dev Stack allows users to explore frontend, backend, database, DevOps, and other
 
 > Add your project screenshot here.
 
-```md
 ![Dev Stack Preview](https://raw.githubusercontent.com/rohanul-haque/Dev-Stack/refs/heads/main/src/assets/Screenshot%202026-09-23%20131425.png)
-```
 
 ---
 
