@@ -8,7 +8,7 @@ const Hero = () => {
           {/* ================= Hero Content ================= */}
           <div className="text-center lg:text-left">
             {/* Heading */}
-            <h1 className="text-base-content text-4xl leading-tight font-extrabold tracking-tight sm:text-5xl lg:text-6xl">
+            <h1 className="text-base-content text-3xl leading-tight font-extrabold tracking-tight md:text-4xl lg:text-5xl">
               Build Your Ideal{" "}
               <span className="bg-gradient-to-r from-[#FF5722] via-[#D81B7E] to-[#7C3AED] bg-clip-text text-transparent">
                 Development Stack
